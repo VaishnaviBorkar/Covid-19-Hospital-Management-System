@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/ViewPatient.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dao/AddDoctordao.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/AddAppointment.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dao/ViewDoctordao.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/RemoveAppointment.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/DeadPatients.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dao/AddAppointmentdao.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/UpdateDoctor.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/AddPatient.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/AdminOptions.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/ViewAppointment.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dao/ViewPatientdao.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/DischargedPatients.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/SplashScreen.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/UpdateAppointment.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/AddDoctor.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dbutil/DatabaseConnection.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dao/ViewAppointmentdao.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/dao/RemoveAppointmentdao.java</file>
+            <file>file:/D:/java%20programs/Project%20Mannager/Sir/ManagementSystem/src/mgmtsys/gui/ViewDoctor.java</file>
+        </group>
+    </open-files>
+</project-private>
